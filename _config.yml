@@ -1,11 +1,10 @@
 # Site settings
-title: My Blog
-email: coolwebconfs@gmail.com
-description: My simple blog.
-baseurl: ""
-url: ""
+title: Jekyll Practice
+email: j3robinson1@gmail.com
+description: First time Jekyll
+baseurl: "/Jekyll_Practice"
 twitter_username: 
-avatar: "" # Set footer avatar
+avatar: "https://github.com/account" # Set footer avatar
 paginate: 3
 
 # Build settings
@@ -19,8 +18,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "My Author" # Set default author name
-      categories: "cats"
+      author: "Jesse Robinson" # Set default author name
+      categories: "Random"
       layout: "post"
       comments: true
   -
