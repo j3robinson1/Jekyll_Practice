@@ -1,7 +1,7 @@
 ---
 title:  "My Second Post"
 categories: sample
-image: feat-img.jpg
+image: sample-img.jpg
 ---
 
 Hi there. This will be your first blog post&mdash;I hope you're excited! To get started, give this post a new title by replacing "My First Post" with your post's title. 

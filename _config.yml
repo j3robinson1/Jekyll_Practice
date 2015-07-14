@@ -19,7 +19,7 @@ defaults:
       type: "posts"
     values:
       author: "Jesse Robinson" # Set default author name
-      categories: "Random"
+      categories: "sample"
       layout: "post"
       comments: true
   -
